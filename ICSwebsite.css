@@ -1,0 +1,34 @@
+body
+{
+ background-image: url(WoodGuitar.jpg); 
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover; <!--To make the image scale to fit the entire screen--> 
+ 
+}
+
+p 
+{ 
+   color: white;
+   width: 65%; <!--To make the text not go across the entire screen--> 
+   text-align: left; 
+   line-height: 35pt;
+   font-size: 16pt; 
+}
+
+h1, h2, h3
+{
+ color: black;
+ text-align: left; 
+ text-decoration-style: dotted;
+ text-decoration: underline; 
+}
+h3
+{
+ font-size: 17pt
+}
+
+ul
+{
+	font-size: 16pt; 
+}
