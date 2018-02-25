@@ -3,14 +3,14 @@ body
  background-image: url(WoodGuitar.jpg); 
  background-position: center;
  background-repeat: no-repeat;
- background-size: cover; <!--To make the image scale to fit the entire screen--> 
+ background-size: cover; /*To make the image scale to fit the entire screen*/ 
  
 }
 
 p 
 { 
    color: white;
-   width: 65%; <!--To make the text not go across the entire screen--> 
+   width: 65%; /*To make the text not go across the entire screen*/
    text-align: left; 
    line-height: 35pt;
    font-size: 16pt; 
